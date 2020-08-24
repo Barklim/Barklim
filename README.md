@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Barklim/Barklim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +23,7 @@ https://github.com/anuraghazra
 https://simpleicons.org/
 -->
 
-### Hi there, I'm Kliment - aka [codeSTACKr][website] [Barklim][websitepholio]  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+### Hi there, I'm Kliment - aka [Barklim][websitepholio]  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ## I'm a Frontend and Mobile Developer!
 
