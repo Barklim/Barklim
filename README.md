@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 inspired By https://github.com/codeSTACKr/codeSTACKr
 https://www.youtube.com/watch?v=n6d4KHSKqGk
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="klimBark Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 https://github.com/gautamkrishnar
 https://github.com/anuraghazra
 https://simpleicons.org/
@@ -27,7 +24,7 @@ https://simpleicons.org/
 
 ## I'm a Frontend and Mobile Developer!
 
-- 🔭 I’m currently working on a [PlanThai][websiteplant]!
+- 🔭 I’m currently working on a [PlanThai][websiteplant]! My plans on [Trello][trello]
 - 🌱 I’m currently learning elixir
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw
@@ -52,6 +49,7 @@ https://simpleicons.org/
 [website]: https://c.com
 [websitepholio]: https://barklim.github.io/
 [websiteplant]: https://github.com/Barkarula/PlanThai
+[trello]: https://trello.com/b/ToA7vWwJ/projects-barklim
 [twitter]: https://twitter.com/c
 [youtube]: https://youtube.com/c
 [instagram]: https://instagram.com/c
