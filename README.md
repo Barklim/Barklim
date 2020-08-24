@@ -25,7 +25,7 @@ https://github.com/anuraghazra
 https://simpleicons.org/
 -->
 
-### Hi there, I'm Kliment - aka [Barklim][https://barklim.github.io/]  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+### Hi there, I'm Kliment - aka [codeSTACKr][website] [Barklim][websitepholio]  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ## I'm a Frontend and Mobile Developer!
 
@@ -57,6 +57,7 @@ https://simpleicons.org/
 <br />
 
 [website]: https://c.com
+[websitepholio]: https://barklim.github.io/
 [websiteplant]: https://github.com/Barkarula/PlanThai
 [twitter]: https://twitter.com/c
 [youtube]: https://youtube.com/c
