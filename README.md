@@ -28,6 +28,7 @@ https://simpleicons.org/
 - 🌱 I’m currently learning elixir
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw
+- :octocat: My previous [repository][oldrep]
 
 ### Languages and Tools:
 
@@ -50,6 +51,7 @@ https://simpleicons.org/
 [websitepholio]: https://barklim.github.io/
 [websiteplant]: https://github.com/Barkarula/PlanThai
 [trello]: https://trello.com/b/ToA7vWwJ/projects-barklim
+[oldrep]: https://github.com/Barkarula
 [twitter]: https://twitter.com/c
 [youtube]: https://youtube.com/c
 [instagram]: https://instagram.com/c
