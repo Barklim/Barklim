@@ -20,11 +20,21 @@ https://github.com/anuraghazra
 https://simpleicons.org/
 -->
 
-### Hi there, I'm Kliment - aka [Barklim][websitepholio]  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+### Hi there, I'm Kliment - aka [Barklim][websitepholio]  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+<a href="https://codesandbox.io/u/kliment.barkalov">
+  <img align="left" alt="Kliment Barkalov | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Kliment's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+<a href=[trello]>
+  Trello
+</a>
 
 ## I'm a Frontend and Mobile Developer!
 
-- 🔭 I’m currently working on a [PlanThai][websiteplant]! My plans on [Trello][trello]
+- 🔭 I’m currently working on a [PlanThai][websiteplant]!
 - 🌱 I’m currently learning elixir
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw
