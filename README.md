@@ -3,15 +3,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 inspired By https://github.com/codeSTACKr/codeSTACKr
 https://www.youtube.com/watch?v=n6d4KHSKqGk
 
@@ -23,16 +14,16 @@ https://simpleicons.org/
 ### Hi there, I'm Kliment - aka [Barklim][websitepholio]  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <a href="https://codesandbox.io/u/kliment.barkalov">
-  <img align="left" alt="Kliment Barkalov | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img alt="Kliment Barkalov | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Kliment's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img alt="Kliment Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <a href=[trello]>
-  <img align="left" alt="Kliment Trello" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img alt="Kliment Trello" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <a href=[bitdev]>
-  <img align="left" alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
+  <img alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
 </a>
 
 ## I'm a Frontend and Mobile Developer!
