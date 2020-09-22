@@ -29,7 +29,10 @@ https://simpleicons.org/
   <img align="left" alt="Kliment's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <a href=[trello]>
-  Trello
+  <img align="left" alt="Kliment Trello" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fru%2F%25D0%25B7%25D0%25BD%25D0%25B0%25D1%2587%25D0%25BE%25D0%25BA%2F%25D0%25BD%25D0%25B0-Trello-%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BD%25D0%25B8%25D0%25BD%25D0%25B0-%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25BE%25D1%2582%25D0%25B8%25D0%25BF%2F146319&psig=AOvVaw32sPHyTnRZFo-tWtBfbLkM&ust=1600852759269000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICWisG3_OsCFQAAAAAdAAAAABAD" />
+</a>
+<a href=[bitdev]>
+  <img align="left" alt="Kliment Bitdev" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fteambit%2Fbit&psig=AOvVaw3Ck1lbq5-o6s9Fe7FOIcTf&ust=1600852866513000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD-2-W3_OsCFQAAAAAdAAAAABAD"/>
 </a>
 
 ## I'm a Frontend and Mobile Developer!
@@ -61,6 +64,7 @@ https://simpleicons.org/
 [websitepholio]: https://barklim.github.io/
 [websiteplant]: https://github.com/Barkarula/PlanThai
 [trello]: https://trello.com/b/ToA7vWwJ/projects-barklim
+[bitdev]: https://bit.dev/barklim/barklim
 [oldrep]: https://github.com/Barkarula
 [twitter]: https://twitter.com/c
 [youtube]: https://youtube.com/c
