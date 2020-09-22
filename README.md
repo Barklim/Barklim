@@ -14,13 +14,13 @@ https://simpleicons.org/
 ### Hi there, I'm Kliment - aka [Barklim][websitepholio]  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <a href="https://codesandbox.io/u/kliment.barkalov">
-  <img alt="Kliment Barkalov | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img style="padding-right: 20px"  alt="Kliment Barkalov | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img alt="Kliment Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img style="margin-right: 20px" alt="Kliment Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <a href=[trello]>
-  <img alt="Kliment Trello" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img style="right: 20px" alt="Kliment Trello" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <a href=[bitdev]>
   <img alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
