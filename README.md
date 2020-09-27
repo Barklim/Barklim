@@ -17,13 +17,13 @@ https://simpleicons.org/
   <img align="left"  alt="Kliment Barkalov | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Kliment Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Kliment Discord" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/discord.png" />
 </a>
 <a href=[trello]>
-  <img align="left" alt="Kliment Trello" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Kliment Trello" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/trello.png" />
 </a>
 <a href=[bitdev]>
-  <img alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
+  <img alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/bit1.png"/>
 </a>
 
 ## I'm a Frontend and Mobile Developer!
