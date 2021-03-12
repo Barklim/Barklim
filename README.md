@@ -11,12 +11,7 @@ https://github.com/anuraghazra
 https://simpleicons.org/
 -->
 
-### Hi there, I'm Kliment - aka [Barklim][websitepholio]  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-## I'm a Frontend and Mobile Developer!
-
-- 🔭 I’m currently working on a [CreeperLand][websiteplant]!
-- :octocat: My previous [repository][oldrep]
+## Hi there, I'm [Barklim][websitepholio]  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <a href="https://codesandbox.io/u/kliment.barkalov">
   <img align="left"  alt="Kliment Barkalov | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
@@ -30,6 +25,11 @@ https://simpleicons.org/
 <a href=[bitdev]>
   <img alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/bit1.png"/>
 </a>
+
+## I'm a Frontend and Mobile Developer!
+
+- 🔭 I’m currently working on a [CreeperLand][websiteplant]!
+- :octocat: My previous [repository][oldrep]
 
 ### 📈 GitHub Stats
 
