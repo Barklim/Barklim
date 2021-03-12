@@ -31,9 +31,6 @@ I'm a Frontend and Mobile Developer.
 
 ### Favorite web Tools:
 
-<a href=[bitdev]>
-  <img alt="Kliment Bitdev" width="21px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qDvG7KZAbeVStwSmTSNwAVWjNT9GN-Dodw&usqp=CAU"/>
-</a>
 <a href=[trello]>
   <img align="left" alt="Kliment Trello" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/trello.png" />
 </a>
@@ -42,6 +39,9 @@ I'm a Frontend and Mobile Developer.
 </a>
 <a href=[bitdev]>
   <img alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/bit1.png"/>
+</a>
+<a href=[bitdev]>
+  <img alt="Kliment Bitdev" width="31px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png"/>
 </a>
 
 ### Languages and Tools:
