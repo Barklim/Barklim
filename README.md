@@ -13,17 +13,7 @@ https://simpleicons.org/
 
 ## Hi there, I'm [Barklim][websitepholio]  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I'm a Frontend and Mobile Developer. My favorite tools:
-
-<a href="https://codesandbox.io/u/kliment.barkalov">
-  <img align="left"  alt="Kliment Barkalov | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href=[trello]>
-  <img align="left" alt="Kliment Trello" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/trello.png" />
-</a>
-<a href=[bitdev]>
-  <img alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/bit1.png"/>
-</a>
+I'm a Frontend and Mobile Developer.
 
 - 🔭 I’m currently working on a [CreeperLand][websiteplant]!
 - :octocat: My previous [repository][oldrep]
@@ -38,6 +28,20 @@ I'm a Frontend and Mobile Developer. My favorite tools:
   </tr>   
 </table>
 </p>
+
+### Favorite web Tools:
+<a href=[trello]>
+  <img align="left" alt="Kliment Trello" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/trello.png" />
+</a>
+<a href="https://codesandbox.io/u/kliment.barkalov">
+  <img align="left"  alt="Kliment Barkalov | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href=[bitdev]>
+  <img alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/bit1.png"/>
+</a>
+<a href=[bitdev]>
+  <img alt="Kliment Bitdev" width="21px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png"/>
+</a>
 
 ### Languages and Tools:
 
