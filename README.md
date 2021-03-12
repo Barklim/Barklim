@@ -38,7 +38,7 @@ I'm a Frontend and Mobile Developer.
   <img align="left"  alt="Kliment Barkalov | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href=[bitdev]>
-  <img alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/bit1.png"/>
+  <img align="left" alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/bit1.png"/>
 </a>
 <a href=[bitdev]>
   <img alt="Kliment Bitdev" width="21px" left="20px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png"/>
