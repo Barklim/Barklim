@@ -63,7 +63,7 @@ I'm a Frontend and Mobile Developer.
 
 
 [website]: https://c.com
-[websitepholio]: https://github.com/Barklim/Genomus
+[websitepholio]: https://barklim.github.io/folio/
 [websiteplant]: https://github.com/Barklim/CreeperLand
 [trello]: https://trello.com/b/ToA7vWwJ/projects-barklim
 [bitdev]: https://bit.dev/barklim/barklim
