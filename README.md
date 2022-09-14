@@ -15,9 +15,8 @@ https://simpleicons.org/
 
 I'm a Frontend and Mobile Developer.
 
-- 🔭 I’m currently working on a [CreeperLand][websiteplant]!
+<!-- - 🔭 I’m currently working on a [CreeperLand][websiteplant]! -->
 - :octocat: My previous [repository][oldrep]
-- 
 
 ### 📈 GitHub Stats
 
