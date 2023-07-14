@@ -29,6 +29,14 @@ I'm a Frontend and Mobile Developer.
 </table>
 </p>
 
+### 💻 Проект над которыми работал:
+
+| Project name | Description | Technologies |
+|----------|----------|----------|
+| <a href="https://github.com/Barklim/courses">Сourses</a>    | Приложение для размещения и оценки ресурсов для разработки, курсов, книг и прочее.   | TypeScript, React, i18n, Redux Toolkit, SCSS, Webpack, Vite, Storybook, Jest, Cypress   |
+| Row 2    | Cell 5   | Cell 6   |
+| Row 3    | Cell 8   | Cell 9   |
+
 ### Favorite web Tools:
 
 <a href=[trello]>
