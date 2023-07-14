@@ -15,6 +15,21 @@ https://simpleicons.org/
 
 I'm a FullStack JS developer.
 
+### Favorite web Tools:
+
+<a href=[trello]>
+  <img align="left" alt="Kliment Trello" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/trello.png" />
+</a>
+<a href="https://codesandbox.io/u/kliment.barkalov">
+  <img align="left"  alt="Kliment Barkalov | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href=[bitdev]>
+  <img alt="Kliment Bitdev" width="21px" left="20px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png"/>
+</a>
+<a href=[bitdev]>
+  <img align="left" alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/bit1.png"/>
+</a>
+
 <!-- - 🔭 I’m currently working on a [CreeperLand][websiteplant]! -->
 - :octocat: My previous [repository][oldrep]
 
@@ -28,22 +43,6 @@ I'm a FullStack JS developer.
 | <a href="https://apps.apple.com/ru/app/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%D0%BC%D0%BE%D1%81-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2/id1292282198">АптекаМос мобильное</a>  | Приложение АптекаМос поможет найти и купить лекарства в аптеках Москвы, Подмосковья и регионов. Поиск лекарств в аптеках поближе, подешевле. Доставка лекарств.   | Vanilla JavaScript, Apache Cordova, Subversion, jQuery, Jenkins, React Native |
 | <a href="https://github.com/Barklim/Genomus">Genomus</a> && <a href="https://github.com/Barklim/GenomusTemplater">GenomusTemplater</a>  | Дейтинг соц-сеть для проверки генетической совместимости и декстоп конвертер эксель в дом в пдф файл.  | React.js, Redux.js, Redux Thunk, Electron.js, Node.js, Express.js, MongoDB |
 | <a href="https://creeperlandvue.netlify.app/">Сreeperland</a> | Веб маркет для покупки донатов для игрового сервиса | Vue, Vuex, Element ui, Typescript |
-
-
-### Favorite web Tools:
-
-<a href=[trello]>
-  <img align="left" alt="Kliment Trello" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/trello.png" />
-</a>
-<a href="https://codesandbox.io/u/kliment.barkalov">
-  <img align="left"  alt="Kliment Barkalov | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href=[bitdev]>
-  <img align="left" alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/bit1.png"/>
-</a>
-<a href=[bitdev]>
-  <img alt="Kliment Bitdev" width="21px" left="20px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png"/>
-</a>
 
 [websiteoldpholio]: https://barklim.github.io/
 [websitepholio]: https://barklim.github.io/folio/
