@@ -15,21 +15,6 @@ https://simpleicons.org/
 
 I'm a FullStack JS developer.
 
-### Favorite web Tools:
-
-<a href=[trello]>
-  <img align="left" alt="Kliment Trello" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/trello.png" />
-</a>
-<a href="https://codesandbox.io/u/kliment.barkalov">
-  <img align="left"  alt="Kliment Barkalov | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href=[bitdev]>
-  <img alt="Kliment Bitdev" width="21px" left="20px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png"/>
-</a>
-<a href=[bitdev]>
-  <img align="left" alt="Kliment Bitdev" width="21px" src="https://raw.githubusercontent.com/Barklim/Barklim/master/i/bit1.png"/>
-</a>
-
 <!-- - 🔭 I’m currently working on a [CreeperLand][websiteplant]! -->
 - :octocat: My previous [repository][oldrep]
 
@@ -49,7 +34,9 @@ I'm a FullStack JS developer.
 [website]: https://c.com
 [websiteplant]: https://github.com/Barklim/CreeperLand
 [trello]: https://trello.com/b/ToA7vWwJ/projects-barklim
+[codesandbox]: https://codesandbox.io/u/kliment.barkalov
 [bitdev]: https://bit.dev/barklim/barklim
+[codewars]: codewars
 [oldrep]: https://github.com/Barkarula
 [twitter]: https://twitter.com/c
 [youtube]: https://youtube.com/c
