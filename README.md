@@ -18,17 +18,6 @@ I'm a Frontend and Mobile Developer.
 <!-- - 🔭 I’m currently working on a [CreeperLand][websiteplant]! -->
 - :octocat: My previous [repository][oldrep]
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <table>
-  <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=barklim&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=buefy&icon_color=5194f0&bg_color=fff" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barklim&hide=html&layout=compact&hide_border=true&hide_title=true&theme=buefy&icon_color=5194f0&bg_color=fff" /></td>
-  </tr>   
-</table>
-</p>
-
 ### 💻 Проект над которыми работал:
 
 | Project name | Description | Technologies |
