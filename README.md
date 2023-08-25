@@ -22,7 +22,7 @@ I'm a FullStack JS developer.
 
 | Project name | Description | Technologies |
 |----------|----------|----------|
-| <a href="https://harmonious-heliotrope-135b77.netlify.app/">Сourses</a> | Pet. Приложение для размещения и оценки ресурсов для разработки, курсов, книг и прочее.   | TypeScript, React, i18n, Redux Toolkit, SCSS, Webpack, Vite, Storybook, Jest, Cypress   |
+| <a href="https://main--mellifluous-rolypoly-f95eb8.netlify.app/">Сourses</a> | Pet. Приложение для размещения и оценки ресурсов для разработки, курсов, книг и прочее.   | TypeScript, React, i18n, Redux Toolkit, SCSS, Webpack, Vite, Storybook, Jest, Cypress, GSAP   |
 | <a href="https://edvice.pro/">Edvice</a> | Cервис для предоставления консультаций и организации вебинаров как от экспертов, так и от пользователей при решении различных задач и проблем   | Node, MongoDB, Opensearch, TypeScript, Handlebars, Swagger   |
 | <a href="https://liquidwage.com/en">Liquidwage</a>  | SRM-система, позволяющая снимать деньги со счета до получения зарплаты.   | Next.js, Express.js, Storybooks, React.js, TypeScript, Antd, UnitPay |
 | <a href="https://apps.apple.com/ru/app/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%D0%BC%D0%BE%D1%81-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2/id1292282198">АптекаМос мобильное</a>  | Приложение АптекаМос поможет найти и купить лекарства в аптеках Москвы, Подмосковья и регионов. Поиск лекарств в аптеках поближе, подешевле. Доставка лекарств.   | Vanilla JavaScript, Apache Cordova, Subversion, jQuery, Jenkins, React Native |
