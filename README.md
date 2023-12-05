@@ -22,7 +22,7 @@ I'm a FullStack JS developer.
 
 | Project name | Description | Technologies |
 |----------|----------|----------|
-| <a href="https://main--mellifluous-rolypoly-f95eb8.netlify.app/">OFTracker</a> | An application that allows you to configure and control a personalized chatbot for auto-chatting with users, as well as control operators managing platform accounts in order to collect statistics.. | TypeScript, React, Redux Toolkit, Chrome Extension, Nest, Postgres, Redis   |
+| <a href="https://main--sprightly-toffee-821aa4.netlify.app/">OFTracker</a> | An application that allows you to configure and control a personalized chatbot for auto-chatting with users, as well as control operators managing platform accounts in order to collect statistics.. | TypeScript, React, Redux Toolkit, Chrome Extension, Nest, Postgres, Redis   |
 | <a href="https://main--mellifluous-rolypoly-f95eb8.netlify.app/">Сourses</a> | Pet. An application for posting and evaluating development resources, courses, books, and more. | TypeScript, React, i18n, Redux Toolkit, SCSS, Webpack, Vite, Storybook, Jest, Cypress, GSAP   |
 | <a href="https://edvice.pro/">Edvice</a> | A service for providing consultations and organizing webinars from both experts and users in solving various tasks and problems | Node, MongoDB, Opensearch, TypeScript, Handlebars, Swagger   |
 | <a href="https://liquidwage.com/en">Liquidwage</a>  | SRM system that allows you to withdraw money from your account before receiving your salary. | Next.js, Express.js, Storybooks, React.js, TypeScript, Antd, UnitPay |
