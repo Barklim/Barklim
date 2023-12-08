@@ -28,7 +28,6 @@ I'm a FullStack JS developer.
 | <a href="https://liquidwage.com/en">Liquidwage</a>  | SRM system that allows you to withdraw money from your account before receiving your salary. | Next.js, Express.js, Storybooks, React.js, TypeScript, Antd, UnitPay |
 | <a href="https://apps.apple.com/ru/app/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%D0%BC%D0%BE%D1%81-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2/id1292282198">АптекаМос мобильное</a>  | The AptekaMos application will help you find and buy medications in pharmacies in Moscow, the Moscow region and the regions. Finding medicines in pharmacies is closer and cheaper. Delivery of medicines. | Vanilla JavaScript, Apache Cordova, Subversion, jQuery, Jenkins, React Native |
 | <a href="https://github.com/Barklim/Genomus">Genomus</a> && <a href="https://github.com/Barklim/GenomusTemplater">GenomusTemplater</a>  | Dating social network for checking genetic compatibility and desktop converter from Excel to home to PDF file.  | React.js, Redux.js, Redux Thunk, Electron.js, Node.js, Express.js, MongoDB |
-| <a href="https://creeperlandvue.netlify.app/">Сreeperland</a> | Web market for purchasing donations for a gaming service | Vue, Vuex, Element ui, Typescript |
 
 [websiteoldpholio]: https://barklim.github.io/
 [websitepholio]: https://barklim.github.io/folio/
