@@ -35,12 +35,14 @@ I'm a FullStack JS developer.
 |----------|----------|----------|----------|
 | 2023 | <a href="https://coursearn.netlify.app/">Course</a>, <a href="https://github.com/Barklim/course">code</a>  | Web3 course to earn app. With swipes, articles e.t.c | FSD, TypeScript, React, Redux Toolkit, Webpack, Vite, scss, testing, storybook |
 | 2024 | <a href="https://todos-swart-eight.vercel.app/">React Todos</a>, <a href="https://github.com/Barklim/todos">code</a>  | Based todos application with TypeScript, React and React Hooks. | TypeScript, React, Vite, Vitest, testing |
+| 2023 | <a href="https://coursearn.netlify.app/history">History Component</a>, <a href="https://github.com/Barklim/course/tree/main/src/pages/HistoryPage">code</a>  | Dynamic history component with customization. | TypeScript, React, GSAP |
 | 2024 | <a href="https://barklimgithubgraphql.netlify.app/">GithubApi</a>, <a href="https://github.com/Barklim/Github-GraphQL-Api">code</a> | Simple github clone app with github graphql. | FSD, TypeScript, React, Redux Toolkit |
-<!-- | 2023 | <a href="https://main--mellifluous-rolypoly-f95eb8.netlify.app/">Сourses</a> | Pet. An application for posting and evaluating development resources, courses, books, and more. | TypeScript, React, i18n, Redux Toolkit, SCSS, Webpack, Vite, Storybook, Jest, Cypress, GSAP   | -->
 | 2023 | <a href="https://oftracker.netlify.app">OFTracker</a>, <a href="https://github.com/Barklim/onlyfClient">code</a> | OnlyF tracker extension with autochat, for models and web agencies. With Nest back and FSD React frontend | FSD, TypeScript, React, Redux Toolkit, Chrome Extension, Nest, Postgres, Redis |
 | 2022 | <a href="https://github.com/Barklim/SearchSwitcher">SSwitcher, code</a>  | SearchSwitcher - Web extension for fast searching | Web extension |
+| 2019 | <a href="https://barkarula.github.io/threejsIkSolvers/?path=/story/pzk--1-constraints">Robot</a> , <a href="https://github.com/Barkarula/threejsIkSolvers">code</a> | Inverse kinematics of robot manipulator | Storybook, Webgl |
 <!-- | 2022 | <a href="https://barklim.github.io/whiteBoardCanvas/">Figma board</a> , <a href="https://github.com/Barklim/whiteBoardCanvas">code</a>  | Whiteboard with basic cores functions figma like. Zooming, scrolling, dragging on Canvas without libs | Core Js | -->
-| 2020 | <a href="https://creeperlandvue.netlify.app/">Donat shop</a> , <a href="https://github.com/Barklim/CreeperLandVue">code</a> | Donat shop for game server | Vue, JS |
+<!-- | 2023 | <a href="https://main--mellifluous-rolypoly-f95eb8.netlify.app/">Сourses</a> | Pet. An application for posting and evaluating development resources, courses, books, and more. | TypeScript, React, i18n, Redux Toolkit, SCSS, Webpack, Vite, Storybook, Jest, Cypress, GSAP   | -->
+<!-- | 2020 | <a href="https://creeperlandvue.netlify.app/">Donat shop</a> , <a href="https://github.com/Barklim/CreeperLandVue">code</a> | Donat shop for game server | Vue, JS | -->
 <!--  | 2019 | <a href="https://barklim.github.io/atw-market/">Atwinta game</a> , <a href="https://github.com/Barklim/atw-market">code</a> | Game app | React, Redux, Class components |  -->
 
 
