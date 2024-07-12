@@ -21,7 +21,7 @@ I'm a FullStack JS developer.
 ### 💻 Projects I worked on:
 
 | Project name | Description | Technologies |
-|----------|----------|----------|
+|----------|----------|----------|----------|
 | <a href="https://www.x5-tech.ru/">x5-tech</a> | Сareer site for x5tech group | TypeScript, React, wysiwyg, Payload Cms, Nest, Mongo, Docker, Keycloak |
 | <a href="https://edvice.pro/">Edvice</a> | A service for providing consultations and organizing webinars from both experts and users in solving various tasks and problems | Node, MongoDB, Opensearch, TypeScript, Handlebars, Swagger   |
 | <a href="https://liquidwage.com/en">Liquidwage</a>  | CRM system that allows you to withdraw money from your account before receiving your salary. | Next.js, Express.js, Storybooks, React.js, TypeScript, Antd, UnitPay |
