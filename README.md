@@ -21,7 +21,7 @@ I'm a FullStack JS developer.
 ### 💻 Projects I worked on:
 
 | Project name | Description | Technologies |
-|----------|----------|----------|----------|
+|----------|----------|----------|
 | <a href="https://www.x5-tech.ru/">x5-tech</a> | Сareer site for x5tech group | TypeScript, React, wysiwyg, Payload Cms, Nest, Mongo, Docker, Keycloak |
 | <a href="https://edvice.pro/">Edvice</a> | A service for providing consultations and organizing webinars from both experts and users in solving various tasks and problems | Node, MongoDB, Opensearch, TypeScript, Handlebars, Swagger   |
 | <a href="https://liquidwage.com/en">Liquidwage</a>  | CRM system that allows you to withdraw money from your account before receiving your salary. | Next.js, Express.js, Storybooks, React.js, TypeScript, Antd, UnitPay |
@@ -32,7 +32,7 @@ I'm a FullStack JS developer.
 
 
 | Year | Project name | Description | Technologies |
-|----------|----------|----------|
+|----------|----------|----------|----------|
 | 2023 | <a href="https://coursearn.netlify.app/">Course</a>, <a href="https://github.com/Barklim/course">code</a>  | Web3 course to earn app. With swipes, articles e.t.c | FSD, TypeScript, React, Redux Toolkit, Webpack, Vite, scss, testing, storybook |
 | 2024 | <a href="https://todos-swart-eight.vercel.app/">React Todos</a>, <a href="https://github.com/Barklim/todos">code</a>  | Based todos application with TypeScript, React and React Hooks. | TypeScript, React, Vite, Vitest, testing |
 | 2024 | <a href="https://barklimgithubgraphql.netlify.app/">GithubApi</a>, <a href="https://github.com/Barklim/Github-GraphQL-Api">code</a> | Simple github clone app with github graphql. | FSD, TypeScript, React, Redux Toolkit |
