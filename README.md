@@ -34,7 +34,7 @@ I'm a FullStack JS developer.
 
 | Year | Project name | Description | Technologies |
 |----------|----------|----------|----------|
-| 2025 | <a href="https://github.com/Barklim/bio">Bio app [code]</a>  | Modern MVP based on Nest and React Native + Expo | React Native, Expo, FSD, Tanstack query, Async Storage, ZOD, NestJS, PostgreSQL, TypeORM, Swagger, Docker |
+| 2025 | <a href="https://github.com/Barklim/bio">Bio app [code]</a>  | Modern MVP based on Nest and React Native | React Native, Expo, Tanstack query, Async Storage, ZOD, NestJS, PostgreSQL, TypeORM, Docker |
 | 2024 | <a href="http://142.93.234.60/">DATAPRANA</a>  | Docusign integration for hashrate monitoring and pool provision under contract. (test@dataprana.com - password123) | FSD, React, Docusign NestJS, PostgreSQL, TypeORM, Swagger, Docker |
 | 2023 | <a href="https://coursearn.netlify.app/">Course</a>, <a href="https://github.com/Barklim/course">code</a>  | Web3 course to earn app. With swipes, articles e.t.c | FSD, TypeScript, React, Redux Toolkit, Webpack, Vite, scss, testing, storybook |
 | 2023 | <a href="https://coursearn.netlify.app/history">History Component</a>, <a href="https://barklim.github.io/wheelNav/">V2</a>, <a href="https://github.com/Barklim/wheelNav">code</a>  | Dynamic history component with customization. | TypeScript, React, GSAP |
