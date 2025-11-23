@@ -35,13 +35,7 @@ I'm a FullStack JS developer.
 | 2023 | <a href="https://coursearn.netlify.app/">Course</a>, <a href="https://github.com/Barklim/course">code</a>  | Web3 course to earn app. With swipes, articles e.t.c | FSD, TypeScript, React, Redux Toolkit, Webpack, Vite, scss, testing, storybook |
 | 2023 | <a href="https://coursearn.netlify.app/history">History Component</a>, <a href="https://github.com/Barklim/course/tree/main/src/pages/HistoryPage">code</a>  | Dynamic history component with customization. | TypeScript, React, GSAP |
 | 2023 | <a href="https://oftracker.netlify.app">OFTracker</a>, <a href="https://github.com/Barklim/onlyfClient">code</a> | OnlyF tracker extension with autochat, for models and web agencies. With Nest back and FSD React frontend | FSD, TypeScript, React, Redux Toolkit, Chrome Extension, Nest, Postgres, Redis |
-
-| 2019 | <a href="https://github.com/Barklim/Genomus">Genomus</a> && <a href="https://github.com/Barklim/GenomusTemplater">GenomusTemplater</a> | Worked on a social network platform that combined social features with genetic data, similar to 23andMe.<br>
-Responsibilities & achievements:
-• Implemented core UI for a complex single‑page application.
-• Collaborated closely with backend engineers to design and integrate APIs.
-• Wrote maintainable and extensible code with attention to security and stability of the application. | React.js, Redux.js, Redux Thunk, Electron.js, Node.js, Express.js, MongoDB |
-
+| 2019 | <a href="https://github.com/Barklim/Genomus">Genomus</a> && <a href="https://github.com/Barklim/GenomusTemplater">GenomusTemplater</a> | Worked on a social network platform that combined social features with genetic data, similar to 23andMe.<br> Responsibilities & achievements:<br> - Implemented core UI for a complex single‑page application. - Collaborated closely with backend engineers to design and integrate APIs. - Wrote maintainable and extensible code with attention to security and stability of the application. | React.js, Redux.js, Redux Thunk, Electron.js, Node.js, Express.js, MongoDB |
 | 2019 | <a href="https://barkarula.github.io/threejsIkSolvers/?path=/story/pzk--1-constraints">Robot</a> , <a href="https://github.com/Barkarula/threejsIkSolvers">code</a> | Inverse kinematics of robot manipulator | Storybook, Webgl |
 
 <!-- | 2024 | <a href="https://todos-swart-eight.vercel.app/">React Todos</a>, <a href="https://github.com/Barklim/todos">code</a>  | Based todos application with TypeScript, React and React Hooks. | TypeScript, React, Vite, Vitest, testing | -->
