@@ -35,12 +35,13 @@ I'm a FullStack JS developer.
 | Year | Project name | Description | Technologies |
 |----------|----------|----------|----------|
 | 2025 | <a href="https://github.com/Barklim/bio">Bio app [code]</a>  | Modern MVP based on Nest and React Native | React Native, Expo, Tanstack query, Async Storage, ZOD, NestJS, PostgreSQL, TypeORM, Docker |
-| 2024 | <a href="http://142.93.234.60/">DATAPRANA</a>  | Docusign integration for hashrate monitoring and pool provision under contract. (test@dataprana.com - password123) | FSD, React, Docusign NestJS, PostgreSQL, TypeORM, Swagger, Docker |
+| 2024 | <a href="http://142.93.234.60/">DATAPRANA</a>  | Docusign integration for hashrate monitoring and pool provision under contract | FSD, React, Docusign NestJS, PostgreSQL, TypeORM, Swagger, Docker |
 | 2023 | <a href="https://coursearn.netlify.app/">Course</a>, <a href="https://github.com/Barklim/course">code</a>  | Web3 course to earn app. With swipes, articles e.t.c | FSD, TypeScript, React, Redux Toolkit, Webpack, Vite, scss, testing, storybook |
 | 2023 | <a href="https://coursearn.netlify.app/history">History Component</a>, <a href="https://barklim.github.io/wheelNav/">V2</a>, <a href="https://github.com/Barklim/wheelNav">code</a>  | Dynamic history component with customization. | TypeScript, React, GSAP |
 | 2019 | <a href="https://github.com/Barklim/Genomus">Genomus</a> && <a href="https://github.com/Barklim/GenomusTemplater">GenomusTemplater</a> |  Dating social network for checking genetic compatibility and desktop converter from Excel to home to PDF file. | React.js, Redux.js, Redux Thunk, Electron.js, Node.js, Express.js, MongoDB |
 | 2019 | <a href="https://barkarula.github.io/threejsIkSolvers/?path=/story/pzk--1-constraints">Robot</a> , <a href="https://github.com/Barkarula/threejsIkSolvers">code</a> | Inverse kinematics of robot manipulator | Storybook, Webgl |
 
+<!-- (test@dataprana.com - password123) -->
 <!-- | 2024 | <a href="https://todos-swart-eight.vercel.app/">React Todos</a>, <a href="https://github.com/Barklim/todos">code</a>  | Based todos application with TypeScript, React and React Hooks. | TypeScript, React, Vite, Vitest, testing | -->
 <!-- | 2023 | <a href="https://coursearn.netlify.app/history">History Component</a>, <a href="https://github.com/Barklim/course/tree/main/src/pages/HistoryPage">code</a>  | Dynamic history component with customization. | TypeScript, React, GSAP | -->
 <!-- | 2024 | <a href="https://barklimgithubgraphql.netlify.app/">GithubApi</a>, <a href="https://github.com/Barklim/Github-GraphQL-Api">code</a> | Simple github clone app with github graphql. | FSD, TypeScript, React, Redux Toolkit | -->
